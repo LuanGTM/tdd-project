@@ -1,0 +1,6 @@
+1. Escrever o teste.
+2. Executar o teste.
+3. Confirmar que ele falha.
+4. Implementar o código mínimo.
+5. Executar o teste novamente.
+6. Refatorar sem quebrar os testes.
