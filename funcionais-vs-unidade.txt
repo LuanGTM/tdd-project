@@ -1,0 +1,6 @@
+Testes Funcionais verificam o sistema do ponto de vista do usuário.
+Testes de Unidade verificam unidades menores do código, como funções e
+métodos.
+Testes Funcionais validam comportamentos completos da aplicação.
+Testes de Unidade ajudam a detectar problemas em partes específicas do
+código.
